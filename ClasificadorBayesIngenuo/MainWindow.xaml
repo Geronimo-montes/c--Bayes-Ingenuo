@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Boton de prueba jajja" HorizontalAlignment="Left" Margin="355,160,0,0" VerticalAlignment="Top" Width="216" Height="102" Click="Button_Click"/>
+        <Button Content="Boton de prueba jajja" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="216" Height="102" Click="Button_Click"/>
 
     </Grid>
 </Window>
